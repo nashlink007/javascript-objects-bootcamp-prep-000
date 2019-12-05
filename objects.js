@@ -1,10 +1,4 @@
-var playlist = { metallica: "one" };
+var playlist = { "metallica": "one" };
+function updatePlaylist(playlist, artistName, songTitle) {
 
-playlist.artist = "metallica"
-playlist.song = "one"
-var updatePlaylist = new playlist( metallica, one);
-var updatePlaylist = {
-  playlist : "metallica",
-  artistName : "james",
-  songtitle : "one"
-};
+}
